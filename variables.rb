@@ -7,8 +7,8 @@ integer_two = 5500
 float_one = 0.0001
 float_two = 0.000001
 
-boolean_one = True
-boolean_two = False
+boolean_one = true
+boolean_two = false
 boolean_three = "What?"
 
 #Reassigning the first two string variables
